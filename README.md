@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 I am a geospatial engineer specializing in the intersection of machine learning and climate intelligence. My work focuses on building scalable AI models to solve real-world sustainability challenges. With expertise in processing large-scale satellite imagery, I develop end-to-end ML workflows using **Scikit-learn**, **TensorFlow**, and **Google Earth Engine**.
 
 ---
@@ -52,7 +52,7 @@ I am a geospatial engineer specializing in the intersection of machine learning 
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Languages & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
