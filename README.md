@@ -84,20 +84,27 @@ Role: University Spatial Hub Tutor.
 
 Activities: Taught R programming for spatial statistics and guided students through raster processing and visualization techniques.
 
-3. Technical Skills
+## 🛠️ Technical Skills
 
-Languages & Scripting: Python (Pandas, NumPy), R.
+### Languages & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
+### Machine Learning & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
+### Geospatial Technologies
+![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google-earth&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-007AC2?style=for-the-badge&logo=esri&logoColor=white)
 
-
-
-Machine Learning: TensorFlow, Scikit-learn, Classification, Regression, Clustering, MLOps Concepts.
-
-
-
-
-Geospatial Technologies: Google Earth Engine (GEE), ArcGIS, QGIS.
+### Visualization
+![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-#ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
 
 
 Visualization & BI: Matplotlib, Seaborn, Power BI, Dashboards.
