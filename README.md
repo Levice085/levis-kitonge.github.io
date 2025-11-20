@@ -72,7 +72,6 @@ I am a geospatial engineer specializing in the intersection of machine learning 
 
 ### Visualization
 ![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-#ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
 
 
 ### Visualization & BI
