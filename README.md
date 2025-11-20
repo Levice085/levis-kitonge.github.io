@@ -1,88 +1,56 @@
-# levis-kitonge.github.io
+<div align="center">
+  <h1>Levis Kitonge</h1>
+  <h3>Geospatial Engineer & Machine Learning Practitioner</h3>
+  <p>
+    Nairobi, Kenya • 
+    <a href="https://www.linkedin.com/in/levis-kitonge/">LinkedIn Profile</a> • 
+    <a href="mailto:leviskitonge@gmail.com">Contact Me</a>
+  </p>
+</div>
 
-Portfolio: Levis Kitonge
-Geospatial Engineer & Machine Learning Practitioner, Nairobi | LinkedIn Profile 
+---
 
-1. About Me
-I am a detail-oriented graduate in Geospatial Engineering with a strong focus on machine learning and AI model development. My passion lies in applying AI to solve challenges in sustainability and climate intelligence. I specialize in processing large datasets, building predictive models, and developing end-to-end ML workflows using tools like Scikit-learn, TensorFlow, and Google Earth Engine.
+## 🚀 About Me
+I am a geospatial engineer specializing in the intersection of machine learning and climate intelligence. My work focuses on building scalable AI models to solve real-world sustainability challenges. With expertise in processing large-scale satellite imagery, I develop end-to-end ML workflows using **Scikit-learn**, **TensorFlow**, and **Google Earth Engine**.
 
+---
 
+## 📂 Featured Projects
 
-2. Featured Projects
-Project A: AI-Powered Urban Heat Island (UHI) Model
+### **1. [AI-Powered Urban Heat Island (UHI) Model](https://github.com/levis-kitonge/YOUR-REPO-LINK)**
+*A machine learning pipeline designed for environmental modeling and temperature prediction.*
 
-A machine learning pipeline designed for environmental modeling and temperature prediction. 
+* **Objective:** To predict temperature variations and identify urban heat patterns by analyzing 10 years of Landsat satellite data.
+* **Methodology:**
+    * Engineered a fully automated ML pipeline using **Python** and **Google Earth Engine (GEE)**.
+    * Deployed a **Random Forest model** optimized for robust temperature prediction across temporal datasets.
+    * Automated preprocessing and feature engineering to efficiently handle large-scale geospatial data.
+* **Impact:**
+    * Delivered actionable spatial insights and interactive dashboards for climate analysis.
+    * Validated model precision using rigorous RMSE testing, cross-validation, and feature importance analysis.
+* **Tech Stack:** `Python` `Google Earth Engine` `Random Forest` `Scikit-learn`
 
+### **2. Space-borne AI Optimization (STAR.VISION)**
+*Optimizing satellite imagery classification through automated workflows.*
 
+* **Objective:** To accelerate the efficiency of image classification processes for space-borne data.
+* **Methodology:**
+    * Streamlined data labeling, cleaning, and preprocessing for high-volume satellite imagery.
+    * Implemented advanced classification models using Python to automate manual tasks.
+    * Authored comprehensive model documentation and technical evaluation reports.
+* **Impact:**
+    * 🚀 **Achieved a 40% increase in workflow efficiency**, significantly reducing processing time.
+* **Tech Stack:** `Python` `Automated Workflows` `Classification Models`
 
+### **3. R Spatial Programming Initiative**
+*Academic leadership focused on spatial statistics and raster processing.*
 
-Objective: To analyze 10 years of Landsat data to predict temperature variations and urban heat patterns.
+* **Role:** University Spatial Hub Tutor
+* **Activities:**
+    * Designed and delivered curriculum on **R programming** for spatial statistics.
+    * Mentored students in advanced raster processing techniques and geospatial visualization.
 
-Methodology:
-
-Built a full ML pipeline using Python and Google Earth Engine (GEE).
-
-
-
-Implemented a Random Forest model for robust temperature prediction.
-
-
-
-Automated preprocessing and feature engineering to handle large-scale satellite data.
-
-Results:
-
-Produced visual dashboards and spatial insights for climate analysis.
-
-Evaluated model performance using RMSE, cross-validation, and feature analysis.
-
-
-Tech Stack: Python, GEE, Random Forest, Scikit-learn.
-
-
-
-Project B: Space-borne AI Project (STAR.VISION)
-
-Optimizing satellite imagery classification through automated workflows. 
-
-
-
-
-Objective: To improve the efficiency of image classification for space-borne data.
-
-
-Methodology:
-
-Conducted data labeling, cleaning, and preprocessing on satellite imagery.
-
-
-Implemented classification models using Python.
-
-Created comprehensive model documentation and evaluation reports.
-
-Results:
-
-Deployed an automated ML classification workflow that improved efficiency by 40%.
-
-
-
-Tech Stack: Python, Automated Workflows, Classification Models.
-
-
-
-
-Project C: R Spatial Programming & Tutoring
-
-Educational initiative focused on spatial statistics and raster processing. 
-
-
-
-
-Role: University Spatial Hub Tutor.
-
-
-
-Activities: Taught R programming for spatial statistics and guided students through raster processing and visualization techniques.
+---
 
 ## 🛠️ Technical Skills
 
@@ -107,40 +75,32 @@ Activities: Taught R programming for spatial statistics and guided students thro
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-#ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
 
 
-Visualization & BI: Matplotlib, Seaborn, Power BI, Dashboards.
+### Visualization & BI
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-7db0bc?style=for-the-badge&logo=python&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Dashboards](https://img.shields.io/badge/Dashboards-Interactive-blue?style=for-the-badge)
 
-4. Professional Experience
-AI & Geospatial Data Analyst Intern | STAR.VISION
+---
 
+## 💼 Professional Experience
 
-July 2024 – June 2025 
+### **AI & Geospatial Data Analyst Intern | STAR.VISION**
+*July 2024 – June 2025*
+* **Model Development:** Assisted in the design, testing, and validation of Machine Learning models for satellite data analysis.
+* **Workflow Automation:** Supported the deployment of automated workflows, increasing processing efficiency.
+* **Data Engineering:** Performed advanced data cleaning and preprocessing on large-scale satellite imagery sets.
+* **Documentation:** Authored technical documentation and research reviews to support team knowledge transfer and project scaling.
 
+### **Researcher | AI UHI Mapping Project**
+*September 2024 – June 2025*
+* **Pipeline Architecture:** Engineered a full Machine Learning pipeline specifically for environmental modeling and Urban Heat Island analysis.
+* **Academic Contribution:** Presented research findings, spatial insights, and model performance metrics at academic exhibitions.
 
-Assisted in ML model design, testing, and the deployment of automated workflows.
+---
 
-
-Performed data cleaning and preprocessing on satellite imagery.
-
-Prepared technical documentation and research reviews.
-
-Researcher | AI UHI Mapping Project
-
-
-September 2024 – June 2025 
-
-Built a full ML pipeline for environmental modeling.
-
-Presented research results at academic exhibitions.
-
-5. Certifications
-
-Data Science with Python – Sankyana 
-
-
-Introduction to AI – LinkedIn Learning 
-
-
-MLOps Concepts – DataCamp 
-
-
-MLflow – DataCamp
+## 📜 Certifications
+* **Data Science with Python** – *Sankyana*
+* **Introduction to AI** – *LinkedIn Learning*
+* **MLOps Concepts** – *DataCamp*
+* **MLflow** – *DataCamp*
