@@ -4,7 +4,7 @@ Portfolio: Levis Kitonge
 Geospatial Engineer & Machine Learning Practitioner, Nairobi | LinkedIn Profile 
 
 1. About Me
-I am a detail-oriented Geospatial Engineering graduate with a strong focus on machine learning and AI model development. My passion lies in applying AI to solve challenges in sustainability and climate intelligence. I specialize in processing large datasets, building predictive models, and developing end-to-end ML workflows using tools like Scikit-learn, TensorFlow, and Google Earth Engine.
+I am a detail-oriented graduate in Geospatial Engineering with a strong focus on machine learning and AI model development. My passion lies in applying AI to solve challenges in sustainability and climate intelligence. I specialize in processing large datasets, building predictive models, and developing end-to-end ML workflows using tools like Scikit-learn, TensorFlow, and Google Earth Engine.
 
 
 
