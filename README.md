@@ -17,7 +17,7 @@ I am a geospatial engineer specializing in the intersection of machine learning 
 
 ## 📂 Featured Projects
 
-### **1. [AI-Powered Urban Heat Island (UHI) Model](https://github.com/levis-kitonge/YOUR-REPO-LINK)**
+### **1. [AI-Powered Urban Heat Island (UHI) Model](https://github.com/Levice085/Year5project)**
 *A machine learning pipeline designed for environmental modeling and temperature prediction.*
 
 * **Objective:** To predict temperature variations and identify urban heat patterns by analyzing 10 years of Landsat satellite data.
