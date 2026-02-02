@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Levis Kitonge</h1>
-  <h3>Geospatial Engineer & Machine Learning Practitioner</h3>
+  <h3>AI and ML Engineer (Graduate level)</h3>
   <p>
     Nairobi, Kenya • 
     <a href="https://www.linkedin.com/in/levis-kitonge/">LinkedIn Profile</a> • 
